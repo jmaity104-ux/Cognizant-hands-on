@@ -5,7 +5,7 @@ Cognizant Deep Skilling Program (Java Full Stack track).
 I will keep updating this week by week as I complete each exercise.
 
 ## About Me
-- Name: Harsh Kumar
+- Name: Jaydeb Maity
 - Track: Java Full Stack Engineer (FSE)
 - Program: Digital Nurture 5.0
 
