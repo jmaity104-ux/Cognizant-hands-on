@@ -40,6 +40,17 @@ I will keep updating this week by week as I complete each exercise.
 - Exercise 7: Constructor and Setter Injection - implemented both constructor injection and setter injection in a Spring application.
 - Exercise 9: Spring Boot Application - created a basic Spring Boot application with a REST controller and executed it using Maven.
 
+#### Spring Data JPA with Spring Boot, Hibernate
+
+- Exercise 1: Spring Data JPA - Quick Example - created a simple country entity and repository to understand basic CRUD flow.
+- Exercise 2: Difference Between JPA, Hibernate and Spring Data - explained the difference in a simple and practical way.
+- Exercise 3: Implement Services for Managing Country - added a service layer for country management.
+- Exercise 4: Find a Country Based on Country Code - implemented country lookup using the country code.
+- Exercise 5: Add a New Country - created an API to save a new country.
+- Exercise 6: Query Methods Feature of Spring Data JPA - demonstrated repository methods created from method names.
+- Exercise 7: O/R Mapping - mapped country and capital entities using a one-to-one relationship.
+- Exercise 8: Hibernate Query Language and Native Query - demonstrated custom HQL and native SQL queries.
+
 ## Tools I am using
 
 - Java 21
