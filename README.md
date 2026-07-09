@@ -51,6 +51,20 @@ I will keep updating this week by week as I complete each exercise.
 - Exercise 7: O/R Mapping - mapped country and capital entities using a one-to-one relationship.
 - Exercise 8: Hibernate Query Language and Native Query - demonstrated custom HQL and native SQL queries.
 
+### Week 3
+
+#### Spring REST using Spring Boot 3
+
+- Create a Spring Web Project using Maven - created a Maven based Spring Boot web project.
+- Spring Core - Load Country from Spring Configuration - loaded country details from XML configuration.
+- Hello World RESTful Web Service - created a simple REST API that returns a hello message.
+- REST - Country Web Service - created REST APIs to return country details.
+- REST - Get country based on country code - implemented country search using country code.
+
+#### JWT
+
+- Create authentication service that returns JWT - created an authentication API that returns a JWT token.
+
 ## Tools I am using
 
 - Java 21
